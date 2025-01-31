@@ -8,9 +8,14 @@ The code is to provide these basic functions of the Raspberry Pi Pico based cont
 1. Test motor operation
 2. Wifi steering control
 
-Future code additionas will be 
+Future code additions will be 
+
 L0Cost robot interface
+
 Line Following
+
 Wall following
+
 Ultrasonic detection
+
 VL53L0X detection

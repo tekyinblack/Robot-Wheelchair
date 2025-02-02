@@ -2,7 +2,7 @@ Robot-Wheelchair
 
 The robot wheelchair was created to provide an alternative to the common robot car or robot tank models which are
 sold for STEM education. 
-This is the code for the project described on Instructables here 
+This is the code for the project described on Instructables here https://www.instructables.com/Model-Wheelchair-Robot-With-Pico-Controller-on-Str/
 
 The code is to provide these basic functions of the Raspberry Pi Pico based controller
 1. Test motor operation

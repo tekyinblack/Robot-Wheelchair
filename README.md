@@ -19,3 +19,7 @@ Wall following
 Ultrasonic detection
 
 VL53L0X detection
+
+The V8 code is based on a threaded based stepper driver
+
+V10 is based on a PIO state machine

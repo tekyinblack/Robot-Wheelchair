@@ -1,0 +1,3 @@
+This is version 0.8 of the code for the Pico robot whelchair.
+The code uses threads to achieve the multitasking needed to run the webserver and the stepper motor driver.
+This has been replaced with a PIO state machine in later versions

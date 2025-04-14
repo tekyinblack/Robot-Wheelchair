@@ -1,2 +1,2 @@
-This version 0.10 of the code and uses a new class library and PIO state machines to driver the stepper
-It is a develoment of the code written by Colin Walls for driving stepper motors
+This version 0.10 of the code and uses a new class library and PIO state machines to drive the steppers
+It is a development of the code written by Colin Walls for driving stepper motors

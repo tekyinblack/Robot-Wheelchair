@@ -23,8 +23,8 @@ response = newpages.steerpage()
 time.sleep(5)
 
 # Wi-Fi credentials
-ssid = 'tekyinblack.com'
-password = 'warehouse'
+ssid = 'ssid'
+password = 'password'
 
 newhostname = "WheelChair"
 
